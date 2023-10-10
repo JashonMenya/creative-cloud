@@ -21,7 +21,7 @@ Learning the basics of **photography and videography** is essential to capture h
 - Recording videos.
 - Creating content for various media.
 
-[Learn More](https://example-link.com)
+[Learn More](https://www.adobe.com/creativecloud.html)
 
 ## Photoshop
 
